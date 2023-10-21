@@ -29,11 +29,12 @@ ol {
   width: 100px;
   margin:0;
   padding: 20px;
-}
-
-#grid ol {
   padding-left: 40px;
 }
+
+/* #grid ol {
+  padding-left: 40px;
+} */
 
 #grid ol li {
   padding-bottom: 15px;
